@@ -1,0 +1,13 @@
+li{
+    margin-left: 0px;
+    margin-bottom: 25px;
+    a{
+        font-size: 30px;
+        color:inherit;
+        text-decoration: none;
+    }
+    &:hover{
+      font-weight: 500;
+    
+    }
+}
